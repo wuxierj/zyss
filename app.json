@@ -1,9 +1,9 @@
 {
   "announcement": {
-    "id": "v1.1",
+    "id": "v1.2",
     "show": true,
     "title": "公告标题",
-    "content": "弹窗正文内容",
+    "content": "666",
     "okText": "去看看",
     "okLink": "https://example.com"
   },
