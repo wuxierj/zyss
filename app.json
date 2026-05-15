@@ -1,19 +1,21 @@
 {
   "announcement": {
-    "id": "v1.2",
+    "id": "v1.0",
     "show": true,
-    "title": "公告标题",
-    "content": "666",
-    "okText": "去看看",
-    "okLink": "https://example.com"
+    "title": "🎉 欢迎使用",
+    "content": "输入关键词即可搜索资源，支持模糊匹配和拼音首字母搜索。",
+    "okText": "知道了",
+    "okLink": "链接"
   },
   "searchData": [
     {
-      "keyword": "听书",
+      "keywords": ["听书", "有声书", "听小说", "音频"],
+      "title": "听书资源",
       "url": "https://www.kdocs.cn/l/cfvnlQPH3jaZ"
     },
     {
-      "keyword": "影视",
+      "keywords": ["搜影视", "电影", "电视剧", "追剧", "看片"],
+      "title": "影视资源",
       "url": "https://www.kdocs.cn/l/cctSfx8AQHuw"
     }
   ]
