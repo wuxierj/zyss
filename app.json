@@ -1,6 +1,6 @@
 {
   "announcement": {
-    "id": "v1.0",
+    "id": "v1.6",
     "show": true,
     "title": "🎉 欢迎使用",
     "content": "输入关键词即可搜索资源，支持模糊匹配和拼音首字母搜索。",
