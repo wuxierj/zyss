@@ -1,0 +1,20 @@
+{
+  "announcement": {
+    "id": "v1.2",
+    "show": true,
+    "title": "🎉 新剧上线",
+    "content": "《XXXX》高清资源已更新！每周五晚8点准时追剧。点击右上角关闭按钮可关闭此弹窗。",
+    "okText": "去看看",
+    "okLink": "https://www.kdocs.cn/l/cfvnlQPH3jaZ"
+  },
+  "searchData": [
+    {
+      "keyword": "听书",
+      "url": "https://www.kdocs.cn/l/cfvnlQPH3jaZ"
+    },
+    {
+      "keyword": "搜影视",
+      "url": "https://www.kdocs.cn/l/cctSfx8AQHuw"
+    }
+  ]
+}
