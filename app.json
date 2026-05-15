@@ -3,12 +3,18 @@
     "id": "v1.0",
     "show": true,
     "title": "公告标题",
-    "content": "弹窗显示的正文内容",
+    "content": "弹窗正文内容",
     "okText": "去看看",
-    "okLink": "https://your-link.com"
+    "okLink": "https://example.com"
   },
   "searchData": [
-    { "keyword": "听书", "url": "https://www.kdocs.cn/l/cfvnlQPH3jaZ" },
-    { "keyword": "搜影视", "url": "https://www.kdocs.cn/l/cctSfx8AQHuw" }
+    {
+      "keyword": "听书",
+      "url": "https://www.kdocs.cn/l/cfvnlQPH3jaZ"
+    },
+    {
+      "keyword": "搜影视",
+      "url": "https://www.kdocs.cn/l/cctSfx8AQHuw"
+    }
   ]
 }
