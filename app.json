@@ -1,6 +1,6 @@
 {
   "announcement": {
-    "version": "v2",
+    "version": "v3",
     "show": true,
     "title": "公告标题",
     "content": "公告正文内容",
