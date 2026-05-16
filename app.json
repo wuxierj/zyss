@@ -1,22 +1,32 @@
 {
   "announcement": {
-    "version": "v3",
+    "version": "v1",
     "show": true,
-    "title": "公告标题",
-    "content": "公告正文内容",
+    "title": "🎉 欢迎使用",
+    "content": "输入关键词搜索资源，支持多网盘链接。",
     "okText": "知道了",
     "okLink": ""
   },
   "searchData": [
     {
-      "keywords": ["听书", "有声书", "音频"],
+      "keywords": ["听书", "有声书", "听小说", "音频"],
       "title": "听书资源",
-      "url": "https://www.kdocs.cn/l/cfvnlQPH3jaZ"
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/edf8e1c97641#/list/share" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/365cac20731b4?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/sharewap/#/m/i?2sNZXijb0P7qc" }
+      ],
+      "note": "https://www.kdocs.cn/l/csk8B9Hq9Sp5"
     },
     {
-      "keywords": ["影视", "电影", "追剧"],
+      "keywords": ["搜影视", "电影", "电视剧", "追剧", "看片"],
       "title": "影视资源",
-      "url": "https://www.kdocs.cn/l/cctSfx8AQHuw"
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/edf8e1c97641#/list/share" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/365cac20731b4?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/sharewap/#/m/i?2sNZXijb0P7qc" }
+      ],
+      "note": "https://www.kdocs.cn/l/csk8B9Hq9Sp5"
     }
   ]
 }
