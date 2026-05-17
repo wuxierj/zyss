@@ -1,32 +1,102 @@
 {
   "announcement": {
-    "version": "v1",
+    "version": "v2",
     "show": true,
-    "title": "🎉 欢迎使用",
-    "content": "输入关键词搜索资源，支持多网盘链接。",
+    "title": "🎉 资源库已更新",
+    "content": "新增多个软件合集分类，包括小说、影视、动漫、音乐、听书、漫画、电视影视、免费K歌、电视直播等。",
     "okText": "知道了",
     "okLink": ""
   },
   "searchData": [
     {
-      "keywords": ["听书", "有声书", "听小说", "音频"],
-      "title": "听书资源",
+      "keywords": ["小说", "看书", "阅读", "小说软件"],
+      "title": "小说软件合集",
       "pans": [
-        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/edf8e1c97641#/list/share" },
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/edf8e1c97641" },
         { "name": "UC网盘", "url": "https://drive.uc.cn/s/365cac20731b4?public=1" },
-        { "name": "移动网盘", "url": "https://yun.139.com/sharewap/#/m/i?2sNZXijb0P7qc" }
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2sNZXijb0P7qc" }
       ],
       "note": "https://www.kdocs.cn/l/csk8B9Hq9Sp5"
     },
     {
-      "keywords": ["搜影视", "电影", "电视剧", "追剧", "看片"],
-      "title": "影视资源",
+      "keywords": ["影视", "电影", "电视剧", "追剧", "看片", "影视软件"],
+      "title": "影视软件合集",
       "pans": [
-        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/edf8e1c97641#/list/share" },
-        { "name": "UC网盘", "url": "https://drive.uc.cn/s/365cac20731b4?public=1" },
-        { "name": "移动网盘", "url": "https://yun.139.com/sharewap/#/m/i?2sNZXijb0P7qc" }
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/dcf40c5b7df3" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/ec0aa6eed18f4?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2sNZWDgg0VRxq" }
       ],
-      "note": "https://www.kdocs.cn/l/csk8B9Hq9Sp5"
+      "note": "https://www.kdocs.cn/l/cctSfx8AQHuw"
+    },
+    {
+      "keywords": ["动漫", "动画", "番剧", "动漫软件"],
+      "title": "动漫软件合集",
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/54451af2dc2b" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/8918598d5d7f4?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2sNZY1niZwYii" }
+      ],
+      "note": "https://www.kdocs.cn/l/clQLM9ez2FK2"
+    },
+    {
+      "keywords": ["音乐", "听歌", "歌曲", "音乐软件"],
+      "title": "音乐软件合集",
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/cf30e4b5219c" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/ccd2cfecf4d24?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2sNZWufA8qXxq" }
+      ],
+      "note": "https://www.kdocs.cn/l/cvpfWoKB1o1p"
+    },
+    {
+      "keywords": ["听书", "有声书", "听小说", "音频", "听书软件"],
+      "title": "听书软件合集",
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/053d6b4690da" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/60035b33c8134?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2sNZXVmSxUFk7" }
+      ],
+      "note": "https://www.kdocs.cn/l/cfvnlQPH3jaZ"
+    },
+    {
+      "keywords": ["漫画", "漫画软件", "看漫画"],
+      "title": "漫画软件合集",
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/a889f904bc5e" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/6ce68312d0d24?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2sNZWNgWP2u43" }
+      ],
+      "note": ""
+    },
+    {
+      "keywords": ["电视影视", "TV", "电视版", "电视软件"],
+      "title": "电视影视软件合集",
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/a5748c201a89" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/6779b19b01ec4?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2qidYwbcEXHku" }
+      ],
+      "note": "https://www.kdocs.cn/l/ca7e2ea6MfTl"
+    },
+    {
+      "keywords": ["K歌", "唱歌", "卡拉OK", "K歌软件"],
+      "title": "免费K歌软件合集",
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/ba87d66f1f89" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/37fa8115f2ad4?public=1" },
+        { "name": "移动网盘", "url": "https://caiyun.139.com/m/i?1B5C5N3NVcDAi" }
+      ],
+      "note": "https://www.kdocs.cn/l/cvV0G2r4R39J"
+    },
+    {
+      "keywords": ["电视直播", "直播", "电视台", "直播软件"],
+      "title": "电视直播软件合集",
+      "pans": [
+        { "name": "夸克网盘", "url": "https://pan.quark.cn/s/d05091164660" },
+        { "name": "UC网盘", "url": "https://drive.uc.cn/s/8c20005450d64?public=1" },
+        { "name": "移动网盘", "url": "https://yun.139.com/shareweb/#/w/i/2qidZDg8p11ig" }
+      ],
+      "note": "https://www.kdocs.cn/l/csdQCOJEpmA2"
     }
   ]
 }
